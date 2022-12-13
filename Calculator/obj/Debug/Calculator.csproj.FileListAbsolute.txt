@@ -1,0 +1,16 @@
+E:\web applicatio dynamic\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\web applicatio dynamic\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\web applicatio dynamic\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\web applicatio dynamic\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\web applicatio dynamic\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\web applicatio dynamic\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\web applicatio dynamic\Calculator\Calculator\obj\Debug\App.g.cs
+E:\web applicatio dynamic\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\web applicatio dynamic\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\web applicatio dynamic\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\web applicatio dynamic\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\web applicatio dynamic\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\web applicatio dynamic\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\web applicatio dynamic\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\web applicatio dynamic\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\web applicatio dynamic\Calculator\Calculator\obj\Debug\Calculator.pdb
